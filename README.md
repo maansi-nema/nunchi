@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 
 Follow these steps to get your development environment set up:
 
-git clone [https://github.com/yourusername/memberships-expiring.git](https://github.com/maansi-nema/nunchi.git)
-cd memberships-expiring
-npm install
-npm start
+- git clone [https://github.com/yourusername/memberships-expiring.git](https://github.com/maansi-nema/nunchi.git)
+- cd memberships-expiring
+- npm install
+- npm start
